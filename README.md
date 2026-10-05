@@ -12,7 +12,7 @@
 
 * 🎓 I'm an *IT Engineering Student* studying at *MIT*.
 * 🔭 I am currently expanding my skills in software development and web technologies.
-* 🌱 I'm currently learning *Web Development* (HTML, CSS, JavaScript).
+* 💻 Moderate proficiency in Python programming.
 * ⚡ Fun fact: I love turning complex logic into clean, readable code!
 
 ---
